@@ -2,9 +2,14 @@
 
 Je to matný, marný, marný
 
+![Picard stamp](https://raw.github.com/OzzyCzech/picard/blob/master/Je%20to%20marny.jpg)
+
 ### Zdrojové soubory
 
-* [PDF](./Je to marný.pdf)
+* [PDF](https://github.com/OzzyCzech/picard/blob/master/Je%20to%20marny.pdf)
+* [SVG](https://github.com/OzzyCzech/picard/blob/master/Je%20to%20marny.svg)
+* [EPS](https://github.com/OzzyCzech/picard/blob/master/Je%20to%20marny.eps)
+* [afdesign](https://github.com/OzzyCzech/picard/blob/master/Je%20to%20marny.eps)
 
 ### Výroba razítka:
 
