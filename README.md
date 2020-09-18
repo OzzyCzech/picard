@@ -2,7 +2,7 @@
 
 Je to matný, marný, marný
 
-![Picard stamp](https://raw.github.com/OzzyCzech/picard/blob/master/Je%20to%20marny.jpg)
+![Picard stamp](https://raw.githubusercontent.com/OzzyCzech/picard/master/results.jpg)
 
 ### Zdrojové soubory
 
